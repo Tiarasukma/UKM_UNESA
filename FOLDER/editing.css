@@ -1,0 +1,191 @@
+#wrapper{
+	width:1300px;
+	margin:auto;
+	border:#F00 1px solid;
+}
+#logo{
+	background-image:url(AS.jpg);
+	width:230px;
+	height:210px;
+}
+#header{
+	margin-left:50px;
+	width:1300px;
+	height:500px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:auto;
+	margin-right:20px;
+	margin-left:20px;
+	background-color:; 
+	padding-top:0px;
+	padding-bottom:20px;
+}
+
+nav{
+margin-left:0px;
+margin-right:0px;
+width:1300px;
+float:left;
+overflow:auto;
+background:#DFDFDF;
+border:#AAAAAA 1px solid;
+}
+nav ul{
+list-style:none;
+float:left;
+overflow:auto;
+margin:0px;
+padding:0px;
+}
+nav ul li{
+display:block;
+padding:5px 10px 5px 10px;
+float:left;
+margin:0px;
+border-right:#AAAAAA 1px solid;
+}
+nav ul li .submenu{
+display:none;
+}
+nav ul li:hover .submenu{
+display:block;
+margin:0px;
+width:100px;
+position:absolute;
+margin-top:5px;
+border:#AAAAAA 1px solid;
+background:#DFDFDF;
+margin-left:-11px;
+}
+nav ul li:hover .submenu li{
+display:block;
+width:89px;
+padding:5px;
+float:left;
+border:none;
+}
+nav ul li:hover{
+background:#EDEDED;
+}
+nav ul li a{
+color:#000000;
+text-decoration:none;
+}
+nav ul li a:hover{
+text-decoration:underline;
+}
+#iklan{
+	margin-left:50px;
+	width:1300px;
+	height:500px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:auto;
+	margin-right:20px;
+	margin-left:20px;
+	background-color:; 
+	padding-top:0px;
+	padding-bottom:20px;
+}
+#content{
+	border: 2px #606; 
+	background:white;
+	margin-left:250px;
+	margin-top:-20px;
+	margin-right:0px;
+	margin-bottom:30px;
+	width:800px;
+	height:150px;
+	background-image:url(sewa%20mobil%20murah%20di%20malang%20dengan%20supir_085730130718.jpg);
+	float:left;
+}
+#content0{
+	border: 2px #606; 
+	background:white;
+	margin-left:250px;
+	margin-top:40px;
+	margin-right:0px;
+	margin-bottom:30px;
+	width:800px;
+	height:790px;
+	background-image:url(sewa%20mobil%20murah%20di%20malang%20dengan%20supir_085730130718.jpg);
+	float:left;
+}
+#content0.0{
+	border: 2px #606; 
+	background:white;
+	margin-left:250px;
+	margin-top:40px;
+	margin-right:0px;
+	margin-bottom:30px;
+	width:800px;
+	height:790px;
+	float:left;
+}
+#content1{
+	border: 2px #606; 
+	background:white;
+	margin-left:350px;
+	margin-top:-20px;
+	margin-right:0px;
+	margin-bottom:30px;
+	width:600px;
+	height:150px;
+	background-image:url(mobil.jpg);
+	float:left;
+}
+#content2{
+	border: 2px #606; 
+	background:white;
+	margin-left:350px;
+	margin-top:-20px;
+	margin-right:0px;
+	margin-bottom:30px;
+	width:600px;
+	height:150px;
+	background-image:url(images.jpg);
+	float:left;
+}
+#content3{
+	border: 2px #606; 
+	background:white;
+	margin-left:350px;
+	margin-top:-20px;
+	margin-right:0px;
+	margin-bottom:30px;
+	width:600px;
+	height:150px;
+	background-image:url(dalamElf.jpg);
+	float:left;
+}
+#content4{
+	border: 2px #606; 
+	background:white;
+	margin-left:350px;
+	margin-top:-20px;
+	margin-right:0px;
+	margin-bottom:30px;
+	width:600px;
+	height:150px;
+	background-image:url(mobil3.jpg);
+	float:left;
+}
+#footer{
+	width:1300px;
+	height:50px;
+	margin-top:0px;
+	position:absolute;
+	bottom:-1000px;
+	background-color:#FCF;
+	left: 30px;
+}
+#footer1{
+	width:1300px;
+	height:50px;
+	margin-top:0px;
+	position:absolute;
+	bottom:-490px;
+	background-color:#FCF;
+	left: 30px;
+}

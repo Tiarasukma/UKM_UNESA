@@ -1,0 +1,36 @@
+#Gambar1{
+	background-color:;
+	float:right;
+	height:162px;
+	margin:0 0px 0px 0;
+	width:1325px;
+	}
+#Gambar2{
+	background-image:;
+	background:;
+	margin-top:20px;
+	margin-left:20px;
+	width:1000px;
+	height:300px;
+	float:left;
+}	
+#Gambar3{
+	background:;
+	margin-top:20px;
+	margin-right:0px;
+	width:300px;
+	height:300px;
+	float:right;
+}	
+#Gambar4{
+	background:;
+	margin-top:350px;
+	margin-right:0px;
+	width:1325px;
+	height:100px;
+	float:right;
+}	
+#login{
+	width:500px;
+	height:600px;
+}
